@@ -61,6 +61,10 @@ I'm a software engineering student at Universiti Teknikal Malaysia Melaka (UTeM)
 <img src="assets/title-github.svg" alt="On GitHub" width="100%" />
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/AzimAminz/AzimAminz/output/activity.svg" alt="Languages and recently active repositories, refreshed daily" width="100%" />
+</p>
+
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AzimAminz&show_icons=true&count_private=true&hide_border=true&bg_color=1F2A44&title_color=EDE4D3&text_color=8A97AB&icon_color=B5452F&border_radius=12" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzimAminz&layout=compact&langs_count=8&hide_border=true&bg_color=1F2A44&title_color=EDE4D3&text_color=8A97AB&border_radius=12" alt="Most used languages" />
 </p>

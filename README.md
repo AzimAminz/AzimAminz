@@ -1,9 +1,10 @@
 <img src="assets/header.svg" alt="Azim Aminudin, software engineering student at UTeM, Melaka" width="100%" />
 
 <p align="center">
-  <a href="mailto:contact@azimaminz.com"><img src="https://img.shields.io/badge/contact@azimaminz.com-B5452F?style=for-the-badge&logo=maildotru&logoColor=EDE4D3" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/azim-aminudin-765b59334"><img src="https://img.shields.io/badge/LinkedIn-1F2A44?style=for-the-badge&logo=linkedin&logoColor=EDE4D3" alt="LinkedIn" /></a>
-  <a href="https://azimaminz.com"><img src="https://img.shields.io/badge/azimaminz.com-1F2A44?style=for-the-badge&logo=googlechrome&logoColor=EDE4D3" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/azim-aminudin-765b59334"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:contact@azimaminz.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://azimaminz.com"><img src="https://img.shields.io/badge/Website-FF7A00?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/AzimAminz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <br />

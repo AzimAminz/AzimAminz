@@ -34,22 +34,18 @@ I'm a software engineering student at Universiti Teknikal Malaysia Melaka (UTeM)
       Event and volunteer management for Malaysian NGOs. Organisers set up shifts and capacity, volunteers check in by QR code, and certificates are issued automatically.
     </td>
     <td width="50%" valign="top">
-      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&perline=2" height="28" alt="" />
-      <h3><a href="https://github.com/AzimAminz/SilverLink">SilverLink</a></h3>
-      An Android app that lets elderly residents, or their working children, ask verified neighbours for everyday help and wellness checks. Built with team INNOVA-X for the Sime Darby Property Hackathon.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <img src="https://skillicons.dev/icons?i=spring,java,flutter,mysql&perline=4" height="28" alt="" />
       <h3><a href="https://github.com/AzimAminz/SmartCampusConnect">SmartCampusConnect</a></h3>
       Campus management split into microservices, each with its own database, behind a Spring Boot gateway. Web, mobile and desktop clients talk to it over REST and SOAP.
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <img src="https://skillicons.dev/icons?i=nodejs,express,postgres&perline=3" height="28" alt="" />
       <h3><a href="https://github.com/AzimAminz/OAuth2.0-node-js">OAuth2.0-node-js</a></h3>
       Sign-in with OAuth 2.0 on Node.js. Part of a run of Node and Express builds that also covers a blog API, a chat app and a travel tracker.
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 

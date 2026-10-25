@@ -14,11 +14,36 @@ I'm a software engineering student at Universiti Teknikal Malaysia Melaka (UTeM)
 
 <img src="assets/title-toolkit.svg" alt="Toolkit" width="100%" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,tailwind&theme=dark" alt="Web" /><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mysql,postgres&theme=dark" alt="Backend" /><br />
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,docker,git,postman,figma&theme=dark" alt="Mobile and tools" />
-</p>
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h4>Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=3&theme=dark" alt="Frontend" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>Backend</h4>
+      <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,java,spring&perline=3&theme=dark" alt="Backend" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>Mobile</h4>
+      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart&perline=3&theme=dark" alt="Mobile" />
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h4>Database</h4>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=3&theme=dark" alt="Database" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>DevOps</h4>
+      <img src="https://skillicons.dev/icons?i=docker,git,github&perline=3&theme=dark" alt="DevOps" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>Tools</h4>
+      <img src="https://skillicons.dev/icons?i=postman,vscode,figma&perline=3&theme=dark" alt="Tools" />
+    </td>
+  </tr>
+</table>
 
 <br />
 

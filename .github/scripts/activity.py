@@ -123,7 +123,8 @@ def build(langs, recent, n_repos, stars):
         y += 56
 
     stamp = datetime.now(timezone.utc).strftime("%d %b %Y")
-    foot = f"{n_repos} public repositories, {stars} stars. Refreshed {stamp} by GitHub Actions."
+    star_txt = f", {stars} stars" if stars else ""
+    foot = f"{n_repos} public repositories{star_txt}. Refreshed {stamp} by GitHub Actions."
     b.append(f'<g class="in" style="animation-delay:1.4s">{text(INTER, foot, 13, 56, H-34, SLATE)}</g>')
     return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img">'
             f'<title>Live GitHub activity for {USER}</title>{"".join(b)}</svg>')

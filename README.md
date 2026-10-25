@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F2A44,100:2B3A5C&height=220&section=header&text=Azim%20Aminudin&fontSize=64&fontColor=EDE4D3&fontAlign=50&fontAlignY=44&desc=Full-stack%20and%20mobile%20developer%20from%20Melaka&descSize=18&descAlign=50&descAlignY=70&descColor=8A97AB" alt="Azim Aminudin" width="100%" />
-</p>
+<img src="assets/header.svg" alt="Azim Aminudin, software engineering student at UTeM, Melaka" width="100%" />
 
 <p align="center">
   <a href="mailto:contact@azimaminz.com"><img src="https://img.shields.io/badge/contact@azimaminz.com-B5452F?style=for-the-badge&logo=maildotru&logoColor=EDE4D3" alt="Email" /></a>
@@ -14,9 +12,9 @@ I'm a software engineering student at Universiti Teknikal Malaysia Melaka (UTeM)
 
 <br />
 
-## What I work with
+<img src="assets/title-toolkit.svg" alt="Toolkit" width="100%" />
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,tailwind&theme=dark" alt="Web" /><br />
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mysql,postgres&theme=dark" alt="Backend" /><br />
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,docker,git,postman,figma&theme=dark" alt="Mobile and tools" />
@@ -24,48 +22,30 @@ I'm a software engineering student at Universiti Teknikal Malaysia Melaka (UTeM)
 
 <br />
 
-## Selected work
+<img src="assets/title-work.svg" alt="Selected work" width="100%" />
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://skillicons.dev/icons?i=nextjs,laravel,mysql,docker&perline=4" height="28" alt="" />
-      <h3><a href="https://github.com/AzimAminz/CharityStride">CharityStride</a></h3>
-      Event and volunteer management for Malaysian NGOs. Organisers set up shifts and capacity, volunteers check in by QR code, and certificates are issued automatically.
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://skillicons.dev/icons?i=spring,java,flutter,mysql&perline=4" height="28" alt="" />
-      <h3><a href="https://github.com/AzimAminz/SmartCampusConnect">SmartCampusConnect</a></h3>
-      Campus management split into microservices, each with its own database, behind a Spring Boot gateway. Web, mobile and desktop clients talk to it over REST and SOAP.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres&perline=3" height="28" alt="" />
-      <h3><a href="https://github.com/AzimAminz/OAuth2.0-node-js">OAuth2.0-node-js</a></h3>
-      Sign-in with OAuth 2.0 on Node.js. Part of a run of Node and Express builds that also covers a blog API, a chat app and a travel tracker.
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/AzimAminz/CharityStride"><img src="assets/card-charitystride.svg" alt="CharityStride" width="49%" /></a>
+  <a href="https://github.com/AzimAminz/SmartCampusConnect"><img src="assets/card-smartcampus.svg" alt="SmartCampusConnect" width="49%" /></a>
+  <a href="https://github.com/AzimAminz/OAuth2.0-node-js"><img src="assets/card-oauth.svg" alt="OAuth2.0-node-js" width="49%" /></a>
+  <a href="https://github.com/AzimAminz?tab=repositories"><img src="assets/card-more.svg" alt="More repositories" width="49%" /></a>
+</p>
 
 <br />
 
-## On GitHub
+<img src="assets/title-github.svg" alt="On GitHub" width="100%" />
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AzimAminz&show_icons=true&count_private=true&hide_border=true&bg_color=1F2A44&title_color=EDE4D3&text_color=8A97AB&icon_color=B5452F&border_radius=6" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzimAminz&layout=compact&langs_count=8&hide_border=true&bg_color=1F2A44&title_color=EDE4D3&text_color=8A97AB&border_radius=6" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AzimAminz&show_icons=true&count_private=true&hide_border=true&bg_color=1F2A44&title_color=EDE4D3&text_color=8A97AB&icon_color=B5452F&border_radius=12" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzimAminz&layout=compact&langs_count=8&hide_border=true&bg_color=1F2A44&title_color=EDE4D3&text_color=8A97AB&border_radius=12" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AzimAminz&hide_border=true&border_radius=6&background=1F2A44&ring=B5452F&fire=B5452F&currStreakNum=EDE4D3&sideNums=EDE4D3&currStreakLabel=B5452F&sideLabels=8A97AB&dates=8A97AB&stroke=2B3A5C" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=AzimAminz&hide_border=true&border_radius=12&background=1F2A44&ring=B5452F&fire=B5452F&currStreakNum=EDE4D3&sideNums=EDE4D3&currStreakLabel=B5452F&sideLabels=8A97AB&dates=8A97AB&stroke=2B3A5C" alt="Contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzimAminz&hide_border=true&bg_color=1F2A44&color=8A97AB&line=B5452F&point=EDE4D3&area=true&area_color=B5452F&radius=6" alt="Contribution graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/AzimAminz/AzimAminz/output/snake.svg" alt="Contribution snake" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AzimAminz&no-frame=true&no-bg=true&margin-w=8&row=1&column=6&theme=algolia" alt="Trophies" />
-</p>
+<img src="assets/footer.svg" alt="" width="100%" />

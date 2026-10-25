@@ -26,6 +26,7 @@ jobs:
           pip install fonttools
           mkdir -p dist
           python .github/scripts/activity.py dist/activity.svg
+          python .github/scripts/toolkit.py dist/toolkit.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
